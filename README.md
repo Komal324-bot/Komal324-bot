@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Komal</h1>
-I am persuing B. Tech majoring in Information Technology from KIIT University.
+Passionate Software Engineer | Skilled in Java | Seeking Next Tech Adventure
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47s8sjgvgrybs1s7wjpofl0gnw81jpw0gmtzpkx8t9&rid=giphy.gif&ct=g" />
 <h4 align="center">A passionate coder always ready to learn new technologies and apply them to solve real world problems.</h4>
 
